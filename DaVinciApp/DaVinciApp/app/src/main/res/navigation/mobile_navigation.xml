@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/pintor">
+
+    <fragment
+        android:id="@+id/pintor"
+        android:name="es.studium.davinciapp.Pintor"
+        android:label="Pintor"
+        tools:layout="@layout/pintor_fragment" />
+    <fragment
+        android:id="@+id/escultor"
+        android:name="es.studium.davinciapp.Escultor"
+        android:label="Escultor"
+        tools:layout="@layout/escultor_fragment" />
+    <fragment
+        android:id="@+id/cientifico"
+        android:name="es.studium.davinciapp.Cientifico"
+        android:label="Cientifico"
+        tools:layout="@layout/cientifico_fragment" />
+    <fragment
+        android:id="@+id/inventor"
+        android:name="es.studium.davinciapp.Inventor"
+        android:label="Inventor"
+        tools:layout="@layout/inventor_fragment" />
+</navigation>

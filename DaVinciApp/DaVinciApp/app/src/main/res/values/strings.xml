@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="opciones_alta">Alta</string>
+    <string name="opciones_baja">Baja</string>
+    <string name="opciones_modificacion">Modificación</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+    <string name="descripcion_pintor">Es un óleo sobre tabla de álamo de 77 × 53 cm, pintado entre 1503 y 1519, y retocado varias veces por el autor. Se considera el ejemplo más logrado de sfumato, técnica muy característica de Leonardo, si bien actualmente su colorido original es menos perceptible por el oscurecimiento de los barnices. El cuadro está protegido por múltiples sistemas de seguridad y ambientado a temperatura estable para su preservación óptima.</string>
+    <string name="descripcion_escultor">Se trata de una figura de terracota de una virgen sosteniendo a un niño sonriente, de 49 cm de altura y 14,2 kilogramos de peso. Desde el museo, sitúan su origen en Florencia en el año 1465.</string>
+    <string name="descripcion_cientifico">El método científico de Leonardo se basaba fundamentalmente en la observación, «la ciencia fue el capitán, la práctica fue el soldado». Sus investigaciones científicas no se refieren exclusivamente más que a lo que ha estado acompañado de la práctica. Leonardo intentó comprender los fenómenos describiéndolos e ilustrándolos con mucho detalle, no insistiendo demasiado en las explicaciones teóricas. Sus estudios sobre el vuelo de los pájaros o el movimiento del agua son sin duda muy destacables. Como le faltaba formación básica en latín y en matemáticas, los investigadores contemporáneos ignoraron al sabio Leonardo; sin embargo, su sorprendente autodidactismo lo llevó a aprender latín solo.</string>
+    <string name="descripcion_inventor">De entre todos los ingenios de guerra que Leonardo inventó para el duque Ludovico de Milán, esta ballesta gigante es una de las más detalladas en sus más mínimos engranajes. Tal vez quiera decir que se trataba de un verdadero diseño para ser llevado a la práctica, puesto que realmente pocos de los dibujos de Leonardo tuvieron una traducción física. Leonardo trazó máquinas fantásticas, pero muy costosas de realizar, poco versátiles y difíciles de desplazar o movilizar según las necesidades del combate. Sin embargo, el hecho de que en este caso los engranajes y los detalles del funcionamiento hayan sido tratados con atención podrían hablarnos de un proyecto en fase de realización.</string>
+</resources>
